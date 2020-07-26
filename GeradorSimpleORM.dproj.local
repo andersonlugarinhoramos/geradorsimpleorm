@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/11/30 15:55:41.000.712,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/01 07:40:25.000.350,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/12/01 19:44:16.000.518,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/03 13:02:19.000.332,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/25 15:33:12.000.804,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/25 17:30:08.000.272,=C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/25 17:30:33.000.092,C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorORM.View.Principal.dfm</Transaction>
+    <Transaction>2020/07/25 17:30:33.000.092,C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorORM.View.Principal.pas</Transaction>
+    <Transaction>2020/07/25 17:30:38.000.528,C:\Users\Anderson\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorORM.dproj</Transaction>
+    <Transaction>2020/07/25 18:16:13.000.817,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Unit1.pas</Transaction>
+    <Transaction>2020/07/25 18:21:06.000.476,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Unit1.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorORM.View.ListaProjetos.pas</Transaction>
+    <Transaction>2020/07/25 18:21:06.000.476,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Unit1.dfm=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorORM.View.ListaProjetos.dfm</Transaction>
+    <Transaction>2020/07/25 18:43:55.000.484,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorORM.View.Principal.dfm=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorSimpleORM.View.Principal.dfm</Transaction>
+    <Transaction>2020/07/25 18:43:55.000.484,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorORM.View.Principal.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorSimpleORM.View.Principal.pas</Transaction>
+    <Transaction>2020/07/25 18:44:04.000.740,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorORM.dproj=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorSimpleORM.dproj</Transaction>
+    <Transaction>2020/07/25 18:55:44.000.186,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.ConexaoFiredac.pas</Transaction>
+    <Transaction>2020/07/25 18:55:56.000.150,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.ConexaoFiredac.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorSimpleORM.Model.Conexoes.ConexaoFiredac.pas</Transaction>
+    <Transaction>2020/07/25 18:56:20.000.358,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.Metainfoquery.pas</Transaction>
+    <Transaction>2020/07/25 18:56:20.000.304,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.Factory.MetaInfoQuery.pas</Transaction>
+    <Transaction>2020/07/25 18:56:20.000.377,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.TableFiredac.pas</Transaction>
+    <Transaction>2020/07/25 18:56:20.000.327,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.Interfaces.pas</Transaction>
+    <Transaction>2020/07/25 18:56:20.000.283,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.Factory.Conexao.pas</Transaction>
+    <Transaction>2020/07/25 18:56:47.000.905,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.Factory.Conexao.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradoSimplerORM.Model.Conexoes.Factory.Conexao.pas</Transaction>
+    <Transaction>2020/07/25 18:57:00.000.856,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.Factory.MetaInfoQuery.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorSimpleORM.Model.Conexoes.Factory.MetaInfoQuery.pas</Transaction>
+    <Transaction>2020/07/25 18:57:06.000.168,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradoSimplerORM.Model.Conexoes.Factory.Conexao.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradoSimpleORM.Model.Conexoes.Factory.Conexao.pas</Transaction>
+    <Transaction>2020/07/25 18:57:14.000.204,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.Interfaces.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorSimpleORM.Model.Conexoes.Interfaces.pas</Transaction>
+    <Transaction>2020/07/25 18:57:23.000.661,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.Metainfoquery.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorSimpleORM.Model.Conexoes.Metainfoquery.pas</Transaction>
+    <Transaction>2020/07/25 18:57:31.000.894,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorORM.Model.Conexoes.TableFiredac.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorSimpleORM.Model.Conexoes.TableFiredac.pas</Transaction>
+    <Transaction>2020/07/25 18:57:38.000.424,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradoSimpleORM.Model.Conexoes.Factory.Conexao.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorSimpleORM.Model.Conexoes.Factory.Conexao.pas</Transaction>
+    <Transaction>2020/07/26 09:01:08.000.848,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Unit1.pas</Transaction>
+    <Transaction>2020/07/26 09:02:50.000.690,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Unit1.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Entidades\GeradorSimpleORM.Entity.Projeto.pas</Transaction>
+    <Transaction>2020/07/26 09:34:56.000.054,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorSimpleORM.View.ListaProjetos.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorORM.View.ListaProjetos.pas</Transaction>
+    <Transaction>2020/07/26 09:34:56.000.054,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorSimpleORM.View.ListaProjetos.dfm=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\GeradorORM.View.ListaProjetos.dfm</Transaction>
+    <Transaction>2020/07/26 11:53:29.000.019,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Conexoes\GeradorSimpleORM.Model.Conexoes.Factory.MetaInfoQuery.pas=</Transaction>
+    <Transaction>2020/07/26 12:13:26.000.576,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Unit1.pas</Transaction>
+    <Transaction>2020/07/26 12:15:09.000.896,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Gerador\GeradorORM.Model.Gerador.Interfaces.pas</Transaction>
+    <Transaction>2020/07/26 12:15:09.000.906,=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Gerador\GeradorORM.Model.Gerador.ModelGeradorClasse.pas</Transaction>
+    <Transaction>2020/07/26 12:20:38.000.735,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Gerador\GeradorORM.Model.Gerador.Interfaces.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Gerador\GeradorSimpleORM.Model.Gerador.Interfaces.pas</Transaction>
+    <Transaction>2020/07/26 12:20:46.000.534,D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Gerador\GeradorORM.Model.Gerador.ModelGeradorClasse.pas=D:\projetos\Delphi\Ferramentas\Gerador SimpleORM\scr\Gerador\GeradorSimpleORM.Model.Gerador.ModelGeradorClasse.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Conexoes"/>
+    <File Path="Conexoes\GeradorSimpleORM.Model.Conexoes.ConexaoFiredac.pas"/>
+    <File Path="Conexoes\GeradorSimpleORM.Model.Conexoes.Factory.Conexao.pas"/>
+    <File Path="Conexoes\GeradorSimpleORM.Model.Conexoes.Interfaces.pas"/>
+    <File Path="Conexoes\GeradorSimpleORM.Model.Conexoes.Metainfoquery.pas"/>
+    <File Path="Conexoes\GeradorSimpleORM.Model.Conexoes.TableFiredac.pas"/>
+    <File Path="Gerador"/>
+    <File Path="Gerador\GeradorSimpleORM.Model.Gerador.Interfaces.pas"/>
+    <File Path="Gerador\GeradorSimpleORM.Model.Gerador.ModelGeradorClasse.pas"/>
+    <File Path="GeradorSimpleORM.View.ListaProjetos.pas"/>
+    <File Path="GeradorSimpleORM.View.ListaProjetos.dfm"/>
+    <File Path="GeradorSimpleORM.View.Principal.pas"/>
+    <File Path="GeradorSimpleORM.View.Principal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
